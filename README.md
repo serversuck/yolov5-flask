@@ -42,6 +42,9 @@ Run locally and dev with anaconda :
 * `(python37) $ pip install -r requirements.txt`
 * `(python37) $ python webapp.py --port 5000`
 
+## YoloV5 model training by
+mr sorapong somsorn sorapon@varee.ac.th
+
 ## reference
 - https://github.com/ultralytics/yolov5
 - https://github.com/jzhang533/yolov5-flask (this repo was forked from here)
