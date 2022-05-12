@@ -32,7 +32,7 @@ The example json result
       'name': 'stingray'}, 
 ```
 
-An example python script to perform inference using [requests](https://docs.python-requests.org/en/master/) is given in `tests/test_request.py`
+
 
 ## Run & Develop locally
 Run locally and dev:
