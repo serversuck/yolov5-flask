@@ -35,11 +35,12 @@ The example json result
 
 
 ## Run & Develop locally
-Run locally and dev:
-* `python3 -m venv venv`
-* `source venv/bin/activate`
-* `(venv) $ pip install -r requirements.txt`
-* `(venv) $ python webapp.py --port 5000`
+Run locally and dev with anaconda :
+* `conda create -n python37 python=3.7`
+* `conda activate python37`
+* `git clone https://github.com/serversuck/yolov5-flask.git`
+* `(python37) $ pip install -r requirements.txt`
+* `(python37) $ python webapp.py --port 5000`
 
 ## reference
 - https://github.com/ultralytics/yolov5
