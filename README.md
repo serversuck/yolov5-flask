@@ -9,7 +9,7 @@ Simple app consisting of a form where you can upload an image, and see the infer
 then visit http://localhost:5000/ in your browser:
 
 <p align="center">
-<img src="https://github.com/serversuck/yolov5-flask/blob/main/uoload.png" width="450">
+<img src="https://github.com/serversuck/yolov5-flask/blob/main/upload.png" width="450">
 </p>
 
 <p align="center">
